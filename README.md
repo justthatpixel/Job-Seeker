@@ -23,5 +23,3 @@ To run the application locally, please refer to the following below:
    •	$ python3 manage.py test And the following commands can also be run to indicate how much of the application is being tested, i.e: how much of the code is executed during the tests.
    •	$ coverage run python3 manage.py •	$ coverage report
 
-
-![image](https://github.com/justthatpixel/Job-Seeker/assets/64263647/5ba7fa8a-bc6a-4004-916e-8fdd68b677d9)
